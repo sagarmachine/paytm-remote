@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>paytm.com</groupId>
+  <groupId>paytm</groupId>
   <artifactId>checksum</artifactId>
   <versioning>
     <release>0.1</release>
     <versions>
       <version>0.1</version>
     </versions>
-    <lastUpdated>20200928164002</lastUpdated>
+    <lastUpdated>20200928165812</lastUpdated>
   </versioning>
 </metadata>
